@@ -11,3 +11,5 @@ Based on the filters selected the number of bikes shared can be visualized for e
 The proposed visualization as shown in the draft below will help answers the questions in the proposal.
 
 <img src='images/dashboard_draft.jpg' width = 800, height = 450>
+
+Contributions are welcmome by forking the project and submitting a pull request to the repo.
